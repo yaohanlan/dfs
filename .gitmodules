@@ -13,3 +13,6 @@
 [submodule "src/third/github.com/spaolacci/murmur3"]
 	path = src/third/github.com/spaolacci/murmur3
 	url = https://github.com/spaolacci/murmur3.git
+[submodule "src/third/github.com/syndtr/goleveldb"]
+	path = src/third/github.com/syndtr/goleveldb
+	url = https://github.com/syndtr/goleveldb.git
