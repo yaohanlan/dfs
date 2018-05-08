@@ -4,3 +4,6 @@
 [submodule "src/third/murmur3"]
 	path = src/third/murmur3
 	url = https://github.com/spaolacci/murmur3.git
+[submodule "src/third/xxhash"]
+	path = src/third/xxhash
+	url = https://github.com/cespare/xxhash.git
